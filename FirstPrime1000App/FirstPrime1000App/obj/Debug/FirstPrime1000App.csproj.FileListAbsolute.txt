@@ -1,0 +1,12 @@
+F:\Bristy\Project_Bristy\FirstPrime1000App\FirstPrime1000App\bin\Debug\FirstPrime1000App.exe.config
+F:\Bristy\Project_Bristy\FirstPrime1000App\FirstPrime1000App\bin\Debug\FirstPrime1000App.exe
+F:\Bristy\Project_Bristy\FirstPrime1000App\FirstPrime1000App\bin\Debug\FirstPrime1000App.pdb
+F:\Bristy\Project_Bristy\FirstPrime1000App\FirstPrime1000App\obj\Debug\FirstPrime1000App.csprojResolveAssemblyReference.cache
+F:\Bristy\Project_Bristy\FirstPrime1000App\FirstPrime1000App\obj\Debug\FirstPrime1000App.exe
+F:\Bristy\Project_Bristy\FirstPrime1000App\FirstPrime1000App\obj\Debug\FirstPrime1000App.pdb
+F:\Project_Bristy\FirstPrime1000App\FirstPrime1000App\bin\Debug\FirstPrime1000App.exe.config
+F:\Project_Bristy\FirstPrime1000App\FirstPrime1000App\obj\Debug\FirstPrime1000App.exe
+F:\Project_Bristy\FirstPrime1000App\FirstPrime1000App\obj\Debug\FirstPrime1000App.pdb
+F:\Project_Bristy\FirstPrime1000App\FirstPrime1000App\bin\Debug\FirstPrime1000App.exe
+F:\Project_Bristy\FirstPrime1000App\FirstPrime1000App\bin\Debug\FirstPrime1000App.pdb
+F:\Project_Bristy\FirstPrime1000App\FirstPrime1000App\obj\Debug\FirstPrime1000App.csprojResolveAssemblyReference.cache

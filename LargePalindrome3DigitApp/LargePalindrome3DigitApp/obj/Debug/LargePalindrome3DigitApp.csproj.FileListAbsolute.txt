@@ -1,0 +1,6 @@
+F:\Bristy\Project_Bristy\LargePalindrome3DigitApp\LargePalindrome3DigitApp\bin\Debug\LargePalindrome3DigitApp.exe.config
+F:\Bristy\Project_Bristy\LargePalindrome3DigitApp\LargePalindrome3DigitApp\bin\Debug\LargePalindrome3DigitApp.exe
+F:\Bristy\Project_Bristy\LargePalindrome3DigitApp\LargePalindrome3DigitApp\bin\Debug\LargePalindrome3DigitApp.pdb
+F:\Bristy\Project_Bristy\LargePalindrome3DigitApp\LargePalindrome3DigitApp\obj\Debug\LargePalindrome3DigitApp.csprojResolveAssemblyReference.cache
+F:\Bristy\Project_Bristy\LargePalindrome3DigitApp\LargePalindrome3DigitApp\obj\Debug\LargePalindrome3DigitApp.exe
+F:\Bristy\Project_Bristy\LargePalindrome3DigitApp\LargePalindrome3DigitApp\obj\Debug\LargePalindrome3DigitApp.pdb

@@ -1,0 +1,6 @@
+F:\Bristy\Project_Bristy\SquareDifferenceApp6\SquareDifferenceApp6\bin\Debug\SquareDifferenceApp6.exe.config
+F:\Bristy\Project_Bristy\SquareDifferenceApp6\SquareDifferenceApp6\bin\Debug\SquareDifferenceApp6.exe
+F:\Bristy\Project_Bristy\SquareDifferenceApp6\SquareDifferenceApp6\bin\Debug\SquareDifferenceApp6.pdb
+F:\Bristy\Project_Bristy\SquareDifferenceApp6\SquareDifferenceApp6\obj\Debug\SquareDifferenceApp6.csprojResolveAssemblyReference.cache
+F:\Bristy\Project_Bristy\SquareDifferenceApp6\SquareDifferenceApp6\obj\Debug\SquareDifferenceApp6.exe
+F:\Bristy\Project_Bristy\SquareDifferenceApp6\SquareDifferenceApp6\obj\Debug\SquareDifferenceApp6.pdb

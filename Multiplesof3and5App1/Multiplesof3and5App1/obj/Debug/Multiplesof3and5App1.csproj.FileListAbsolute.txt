@@ -1,0 +1,6 @@
+D:\Project_Bristy\Multiplesof3and5App1\Multiplesof3and5App1\bin\Debug\Multiplesof3and5App1.exe.config
+D:\Project_Bristy\Multiplesof3and5App1\Multiplesof3and5App1\bin\Debug\Multiplesof3and5App1.exe
+D:\Project_Bristy\Multiplesof3and5App1\Multiplesof3and5App1\bin\Debug\Multiplesof3and5App1.pdb
+D:\Project_Bristy\Multiplesof3and5App1\Multiplesof3and5App1\obj\Debug\Multiplesof3and5App1.csprojResolveAssemblyReference.cache
+D:\Project_Bristy\Multiplesof3and5App1\Multiplesof3and5App1\obj\Debug\Multiplesof3and5App1.exe
+D:\Project_Bristy\Multiplesof3and5App1\Multiplesof3and5App1\obj\Debug\Multiplesof3and5App1.pdb

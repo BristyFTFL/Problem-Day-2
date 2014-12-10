@@ -1,0 +1,18 @@
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.exe
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.pdb
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.exe
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.pdb
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.csprojResolveAssemblyReference.cache
+F:\Bristy\Project_Bristy\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.exe.config
+F:\Bristy\Project_Bristy\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.exe
+F:\Bristy\Project_Bristy\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.pdb
+F:\Project_Bristy\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.exe.config
+F:\Project_Bristy\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.exe
+F:\Project_Bristy\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.pdb
+F:\Project_Bristy\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.exe
+F:\Project_Bristy\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.pdb
+F:\Project_Bristy\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.csprojResolveAssemblyReference.cache
+F:\Project_Bristy\Problem day 2\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.exe.config
+F:\Project_Bristy\Problem day 2\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.exe
+F:\Project_Bristy\Problem day 2\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.pdb

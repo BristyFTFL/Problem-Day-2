@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.exe
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\bin\Debug\LargePrimeApp.pdb
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.exe
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.pdb
+c:\users\asus\documents\visual studio 2013\Projects\LargePrimeApp\LargePrimeApp\obj\Debug\LargePrimeApp.csprojResolveAssemblyReference.cache

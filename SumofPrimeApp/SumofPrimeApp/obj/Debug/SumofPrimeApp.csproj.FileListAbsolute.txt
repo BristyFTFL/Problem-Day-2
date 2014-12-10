@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2013\Projects\SumofPrimeApp\SumofPrimeApp\bin\Debug\SumofPrimeApp.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\SumofPrimeApp\SumofPrimeApp\bin\Debug\SumofPrimeApp.exe
+c:\users\asus\documents\visual studio 2013\Projects\SumofPrimeApp\SumofPrimeApp\bin\Debug\SumofPrimeApp.pdb
+c:\users\asus\documents\visual studio 2013\Projects\SumofPrimeApp\SumofPrimeApp\obj\Debug\SumofPrimeApp.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\SumofPrimeApp\SumofPrimeApp\obj\Debug\SumofPrimeApp.exe
+c:\users\asus\documents\visual studio 2013\Projects\SumofPrimeApp\SumofPrimeApp\obj\Debug\SumofPrimeApp.pdb
+F:\Project_Bristy\Problem day 2\SumofPrimeApp\SumofPrimeApp\bin\Debug\SumofPrimeApp.exe.config
+F:\Project_Bristy\Problem day 2\SumofPrimeApp\SumofPrimeApp\obj\Debug\SumofPrimeApp.exe
+F:\Project_Bristy\Problem day 2\SumofPrimeApp\SumofPrimeApp\obj\Debug\SumofPrimeApp.pdb
+F:\Project_Bristy\Problem day 2\SumofPrimeApp\SumofPrimeApp\bin\Debug\SumofPrimeApp.exe
+F:\Project_Bristy\Problem day 2\SumofPrimeApp\SumofPrimeApp\bin\Debug\SumofPrimeApp.pdb
+F:\Project_Bristy\Problem day 2\SumofPrimeApp\SumofPrimeApp\obj\Debug\SumofPrimeApp.csprojResolveAssemblyReference.cache
